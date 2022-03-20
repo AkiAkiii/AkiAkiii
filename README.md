@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :mortar_board: I’m currently studying in Master of Biostatistics & Data Science at @Weill Cornell Medicine
+- 
