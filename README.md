@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - :mortar_board: I’m currently pursuing Master of Biostatistics & Data Science at @Weill Cornell Medicine
 - :penguin: I love coding and analysing using R, Python and SQL
-- 💬 My interest topics are Causal Inference, Modeling, etc.
+- 🧐 Interested in Causal Inference, Modeling, etc.
 - :sparkles: Hope to do something in healthcare field 
 - 📫 Reach out me: yil4013@med.cornell.edu
