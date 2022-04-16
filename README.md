@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - :mortar_board: I’m currently pursuing Master of Biostatistics & Data Science at @Weill Cornell Medicine
 - :penguin: I love analysing and coding using R, Python, SQL
 - 🧐 Interested in Modeling, Study Design etc.
-- :sparkles: Looking for a job in public health field as research biostatisticain / data scientist
+- :sparkles: Looking for a job in public health field as research biostatisticain / data scientist / data analyst
 - 📫 Reach out to me: yil4013@med.cornell.edu
