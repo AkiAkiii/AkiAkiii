@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :mortar_board: Master of Biostatistics & Data Science at @Weill Cornell Medicine
+- :mortar_board: I am a Research Biostatistician at @Weill Cornell Medicine
 - :penguin: I love analysing and coding using R, Python, SQL
 - 🧐 Interested in Modeling, Study Design etc.
 - :sparkles: I am now working on developing an R package!
