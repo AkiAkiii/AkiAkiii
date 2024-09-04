@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: I am a Research Biostatistician at @Weill Cornell Medicine
-- :penguin: I love analysing and coding using R, Python
+- :penguin: I love data analyzing and coding using R, Python
 - 🧐 Interested in Modeling, Study Design etc.
 - :sparkles: I am now working on health data analysis, R package development, etc.
 - 📫 Reach out to me: yil4013@med.cornell.edu
