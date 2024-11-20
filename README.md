@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - :penguin: I love data analyzing and coding using R, Python
 - 🧐 Interested in modeling, method development, etc.
 - :sparkles: I am now working on health data analysis, R package development, etc.
-- 📫 Reach out to me: yil4013@med.cornell.edu
+- 📫 Reach out to me: thisisyingli@gmail.com
